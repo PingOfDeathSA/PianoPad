@@ -2,7 +2,7 @@ alert("Hello");
 
 
 
-var numberOfDrumButtons = document.querySelectorAll(".drum").length;
+var numberOfDrumButtons = document.querySelectorAll(".jdrum").length;
 
 for (var i = 0; i < numberOfDrumButtons; i++) {
 
